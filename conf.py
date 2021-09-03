@@ -21,25 +21,14 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "超时空蛋蛋"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2016-08-23T16:51+08:00"
 author = "meowdan"
 email = "edwiinme@gmail.com"
 author_homepage = "https://www.meowdan.cn"
 description = "这是一个单机版blog。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', '超时空蛋蛋', 'Galileo', 'blog']
 language = 'zh-CN'
-external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
-]
+#external_links = 
 nav = [
     {
         "name": "首页",
@@ -61,18 +50,18 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/meowdan/",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/meowdan/",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "name": "instagram",
+        "url": "https://www.instagram.com/meowdan_/",
+        "icon": "gi gi-instagram"
     }
 ]
 
