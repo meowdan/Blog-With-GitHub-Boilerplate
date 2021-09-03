@@ -13,10 +13,10 @@ template = {
     "type": "local",
     "path": "../Galileo"
 }
-enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
-}
+ enable_jsdelivr = {
+ 	"enabled": True,
+ 	"repo": "meowdan/maverick-blog@gh-pages"
+ }
 
 # 站点设置
 site_name = "超时空蛋蛋"
@@ -70,6 +70,15 @@ social_links = [
         "icon": "gi gi-instagram"
     }
 ]
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "mTAVavFyX0vXlmnLSlonf3HI-MdYXbMMI",
+    "appKey": "h0tzL1xc2UwFzcyvreE0abJJ",
+    "visitor": True,
+    "recordIP": True
+}
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
