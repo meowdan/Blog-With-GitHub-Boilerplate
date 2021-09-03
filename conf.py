@@ -13,7 +13,7 @@ template = {
     "type": "local",
     "path": "../Galileo"
 }
- enable_jsdelivr = {
+enable_jsdelivr = {
  	"enabled": True,
  	"repo": "meowdan/maverick-blog@gh-pages"
  }
