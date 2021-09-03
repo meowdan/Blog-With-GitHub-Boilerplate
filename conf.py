@@ -21,14 +21,20 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "超时空蛋蛋"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2016-08-23T16:51+08:00"
+site_build_date = "2021-09-03T16:51+08:00"
 author = "meowdan"
 email = "edwiinme@gmail.com"
-author_homepage = "https://www.meowdan.cn"
+author_homepage = "https://www.meowdan.com"
 description = "这是一个单机版blog。"
 key_words = ['Maverick', '超时空蛋蛋', 'Galileo', 'blog']
 language = 'zh-CN'
-#external_links = 
+external_links = [
+    {
+        "name": "xiao.lu",
+        "url": "https://xiao.lu/",
+        "brief": "鹿哥的博客"
+    },
+]
 nav = [
     {
         "name": "首页",
