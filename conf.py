@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "超时空蛋蛋"
-site_logo = "favicon.png"
+site_logo = "${static_prefix}favicon.png"
 site_build_date = "2021-09-03T16:51+08:00"
 author = "meowdan"
 email = "edwiinme@gmail.com"
