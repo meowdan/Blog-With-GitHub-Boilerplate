@@ -8,11 +8,11 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
-template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
-}
+#template = {
+#    "name": "Galileo",
+#    "type": "local",
+#    "path": "../Galileo"
+#}
 enable_jsdelivr = {
  	"enabled": True,
  	"repo": "meowdan/maverick-blog@gh-pages"
