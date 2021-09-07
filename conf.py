@@ -29,6 +29,11 @@ description = "这是一个单机版blog。"
 key_words = ['Maverick', '超时空蛋蛋', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
+        {
+        "name": "喔喔",
+        "url": "https://makefile.so/",
+        "brief": "喔喔淘气三千问"
+    },
     {
         "name": "xiao.lu",
         "url": "https://xiao.lu/",
