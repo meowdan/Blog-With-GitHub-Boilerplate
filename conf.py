@@ -37,7 +37,7 @@ external_links = [
      {
         "name": "喔喔",
         "url": "https://makefile.so/",
-        "brief": "喔喔淘气三千问"
+        "brief": "喔喔的收藏夹"
     },
     {
         "name": "xiao.lu",
